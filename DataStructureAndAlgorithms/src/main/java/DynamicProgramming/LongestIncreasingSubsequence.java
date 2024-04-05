@@ -2,6 +2,7 @@ package DynamicProgramming;
 
 public class LongestIncreasingSubsequence {
 
+  // Sửa lần 3
   // Sửa lần 1
   public static void main(String[] args) {
     int arr1[] = {128,104, 53, 876, 660, 961, 754, 775, 290, 231};
