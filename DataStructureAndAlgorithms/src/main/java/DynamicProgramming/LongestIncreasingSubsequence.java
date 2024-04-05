@@ -4,6 +4,7 @@ public class LongestIncreasingSubsequence {
 
   // Sửa lần 3
   // Sửa lần 1
+  // Chinh sua tren git clone
   public static void main(String[] args) {
     int arr1[] = {128,104, 53, 876, 660, 961, 754, 775, 290, 231};
     System.out.println(max(arr1));
